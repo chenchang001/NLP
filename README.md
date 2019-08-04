@@ -8,4 +8,5 @@ bert_client() is the code for your own logic.
 
 # 2. Compare XLNet with Bert
 Use XLNet on the sentimental analysis with same train/dev dateset.
-Comparson result is attached.
+Comparson result is attached. 0.88 vs 0.87
+Background: XLNet outperforms BERT on several NLP Tasks since its release...
